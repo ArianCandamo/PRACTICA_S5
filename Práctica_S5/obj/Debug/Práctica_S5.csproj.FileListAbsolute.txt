@@ -1,0 +1,8 @@
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\bin\Debug\Práctica_S5.exe.config
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\bin\Debug\Práctica_S5.exe
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\bin\Debug\Práctica_S5.pdb
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\obj\Debug\Práctica_S5.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\obj\Debug\Práctica_S5.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\obj\Debug\Práctica_S5.exe
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\obj\Debug\Práctica_S5.pdb
+C:\Users\arian\OneDrive\Desktop\UPN TRABAJOS\INTRO. ING. SOFTWARE\PRACTICA 1 DE LABCOM\Práctica_S5\Práctica_S5\obj\Debug\Práctica_S5.exe.config

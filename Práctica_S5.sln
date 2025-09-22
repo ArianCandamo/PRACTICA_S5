@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Práctica_S5", "Práctica_S5\Práctica_S5.csproj", "{4DC1539B-7EF5-425F-A93B-ECDC157014A7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PRACTICA_S5", "PRACTICA_S5\PRACTICA_S5.pyproj", "{2813D8BC-426E-406F-A7EC-3906E937502B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC1539B-7EF5-425F-A93B-ECDC157014A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC1539B-7EF5-425F-A93B-ECDC157014A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC1539B-7EF5-425F-A93B-ECDC157014A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC1539B-7EF5-425F-A93B-ECDC157014A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2813D8BC-426E-406F-A7EC-3906E937502B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2813D8BC-426E-406F-A7EC-3906E937502B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E730DB0-E65C-44EE-9E18-EEE935178232}
+	EndGlobalSection
+EndGlobal
